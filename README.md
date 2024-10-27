@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Molecular Dynamics Simulation](md.png)
+![mdgif](https://github.com/user-attachments/assets/306600be-7cc0-44c4-81f7-2645f340ebd4)
 
 </div>
 
