@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Molecular Dynamics Simulation](mdgif.gif)
+![Molecular Dynamics Simulation]()
 
 </div>
 
