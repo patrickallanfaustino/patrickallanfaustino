@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=patrickallanfaustino&color=red)
+
 ### Hi guys, welcome! 👋
 
 <div align="center">
@@ -24,3 +26,11 @@
 ## Keywords
 
 - 🔑 Molecular dynamics; Biomolecules; Aqueous Biphasic Systems; Ionic Liquids; Thermodynamics; Solvation; Python; Julia; Data Science.
+
+## GitHub Analytics
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickallanfaustino&theme=dark)
+
+</div>
