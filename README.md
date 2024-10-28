@@ -25,12 +25,17 @@
 
 ## Keywords
 
-- 🔑 Molecular dynamics; Biomolecules; Aqueous Biphasic Systems; Ionic Liquids; Thermodynamics; Solvation; Python; Julia; Data Science.
+- 🔑 Molecular dynamics; Biomolecules; Aqueous Biphasic Systems; Ionic Liquids; Thermodynamics; Solvation; Complex Solutions.
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ableton,anaconda,autocad,bash,bootstrap,cs,cpp,cmake,css,discord,github,html,jquery,latex,linux,md,mysql,perl,php,powershell,py,sqlite,ubuntu,vim,visualstudio,vscode,windows,julia&theme=light)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,cuda,numpy,jupyter,pandas,matplotlib,seaborn,scipy,digitalocean,ffmpeg,mariadb,notepadpp,scratch,wsl,word,excel,powerpoint&theme=light)
 
 ## GitHub Analytics
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickallanfaustino&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickallanfaustino&theme=light)
 
 </div>
