@@ -29,7 +29,7 @@
 - 🔑 Molecular dynamics; Biomolecules; Aqueous Biphasic Systems; Ionic Liquids; Thermodynamics; Solvation; Complex Solutions.
 
 ## Workstation Home
-- 🖥️ AMD Ryzen 7 2700X @ OC 4000 MHz with 2 fans Water-Cooler; Biostar X470GTA; 2x16 GB DDR4 @ 3000 MHz XMP2; AMD Radeon RX 6600 @ OC 2500 MHz with 8 GB DDR6 @ 1900 MHz; NVME/SSD storage 3 TB; Power force 500W 80 Plus Bronze.
+- 🖥️ AMD Ryzen 7 2700X @ OC 4000 MHz with 2 fans Water-Cooler; Biostar X470GTA; 2x16 GB DDR4 @ 3000 MHz XMP2; AMD Radeon RX 6600 @ OC 2500 MHz with 8 GB DDR6 @ 1900 MHz; NVME/SSD storage 3 TB.
 - 🎖️ 9.35 Teraflops Go!
 
 ## Skills
@@ -39,7 +39,7 @@
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=gruvbox)
+![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=tokyonight)
 
 </div>
 
