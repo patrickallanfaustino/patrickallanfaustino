@@ -34,7 +34,7 @@
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ableton,anaconda,autocad,bash,bootstrap,cs,cpp,cmake,css,discord,github,html,jquery,latex,linux,md,mysql,perl,php,powershell,py,sqlite,ubuntu,vim,visualstudio,vscode,windows,julia&theme=light)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,cuda,numpy,jupyter,pandas,matplotlib,seaborn,scipy,digitalocean,ffmpeg,mariadb,notepadpp,scratch,wsl,word,excel,powerpoint&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,cuda,numpy,jupyter,pandas,matplotlib,seaborn,scipy,digitalocean,ffmpeg,mariadb,notepadpp,scratch,wsl,word,excel,powerpoint,dreamweaver&theme=light)
 
 ## GitHub Analytics
 
