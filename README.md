@@ -17,8 +17,6 @@
 - 📫 How to reach me: [Email](mailto:patrickfaustino@hotmail.com)
 - 💬 I welcome discussions, consultations and collaboration opportunities in the areas of computational chemistry and molecular dynamics simulations. Feel free to contact me or if you would like to discuss possible cooperations.
 
-![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=radical)
-
 ## Contact
 
 - 📧 Email1: [patrick.faustino@unesp.br](patrick.faustino@unesp.br)
@@ -38,6 +36,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ableton,anaconda,autocad,bash,bootstrap,cs,cpp,cmake,css,discord,github,html,jquery,latex,linux,md,mysql,perl,php,powershell,py,sqlite,ubuntu,vim,visualstudio,vscode,windows,julia&theme=light)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,cuda,numpy,jupyter,pandas,matplotlib,seaborn,scipy,digitalocean,ffmpeg,mariadb,notepadpp,scratch,wsl,word,excel,powerpoint,dreamweaver&theme=light)
+
+![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=)
 
 ## GitHub Analytics
 
