@@ -1,10 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=patrickallanfaustino&color=brightgreen&style=for-the-badge&abbreviated=true)
+![](https://img.shields.io/github/repo-size/patrickallanfaustino/patrickallanfaustino?style=for-the-badge)
 
 ### Hi guys, welcome! 👋
 
 <div align="center">
   
-![mdgif](https://github.com/user-attachments/assets/306600be-7cc0-44c4-81f7-2645f340ebd4)
+<img src="md.gif" alt="protein">
 
 </div>
 
