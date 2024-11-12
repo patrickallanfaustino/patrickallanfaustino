@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=patrickallanfaustino&color=brightgreen&style=for-the-badge&abbreviated=true)
 ![](https://img.shields.io/github/repo-size/patrickallanfaustino/patrickallanfaustino?style=for-the-badge)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{patrickallanfaustino}1212%2Fhit-counter)
 
 ### Hi guys, welcome! 👋
 
