@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=patrickallanfaustino&color=brightgreen&style=for-the-badge&abbreviated=true)
 ![](https://img.shields.io/github/repo-size/patrickallanfaustino/patrickallanfaustino?style=for-the-badge)
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{patrickallanfaustino}1212%2Fhit-counter)
 
 ### Hi guys, welcome! 👋
 
@@ -17,6 +16,8 @@
 - 💼 Researching the behavior of biomolecules in ionic liquids.
 - 📫 How to reach me: [Email](mailto:patrickfaustino@hotmail.com)
 - 💬 I welcome discussions, consultations and collaboration opportunities in the areas of computational chemistry and molecular dynamics simulations. Feel free to contact me or if you would like to discuss possible cooperations.
+
+![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=radical)
 
 ## Contact
 
