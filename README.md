@@ -34,7 +34,7 @@
 
 ## Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,anaconda,arduino,autocad,bash,bootstrap,chatgpt,claude,cmake,c,cs,cpp,css,cuda,digitalocean,discord,dreamweaver,excel,gemini,git,github,html,jquery,julia,jupyter,latex,mariadb,markdown,matplotlib,mysql,notepadpp,numpy,pandas,perl,photoshop,php,powerpoint,powershell,python,scikitlearn,scipy,seaborn,scratch,sqlite,terminal,ubuntu,vim,visualstudio,vscode,wsl,word,windows,hip,rocm,amd,gro&theme=light&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,anaconda,arduino,autocad,bash,bootstrap,chatgpt,claude,cmake,c,cs,cpp,css,cuda,digitalocean,discord,dreamweaver,excel,gemini,git,github,html,jquery,julia,jupyter,latex,mariadb,markdown,matplotlib,mysql,notepadpp,numpy,pandas,perl,photoshop,php,powerpoint,powershell,python,scikitlearn,scipy,seaborn,scratch,sqlite,terminal,ubuntu,vim,visualstudio,vscode,wsl,word,windows&theme=light&perline=13)
 
 ![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=light)
 
