@@ -34,9 +34,9 @@
 
 ## Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,julia,anaconda,arduino,autocad,bash,bootstrap,chatgpt,claude,cuda,numpy,jupyter,pandas,matplotlib,seaborn,scipy,digitalocean,ffmpeg,mariadb,notepadpp,scratch,wsl,word,excel,powerpoint,dreamweaver&theme=light&perline=10&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,anaconda,arduino,autocad,bash,bootstrap,chatgpt,claude,cmake,cs,cpp,css,cuda,digitalocean,discord,dreamweaver,excel,gemini,git,github,html,jquery,julia,jupyter,latex,mariadb,markdown,matplotlib,mysql,notepadpp,numpy,pandas,perl,photoshop,php,powerpoint,powershell,python,scikitlearn,scipy,seaborn,scratch,sqlite,terminal,ubuntu,vim,visualstudio,vscode,wsl,word,windows,&theme=light&perline=10&titles=true)
 
-![My Skills](https://skillicons.dev/icons?i=ableton,cs,cpp,cmake,css,discord,github,html,jquery,latex,linux,md,mysql,perl,php,powershell,py,sqlite,ubuntu,vim,visualstudio,vscode,windows,julia&theme=light&perline=10)
+![My Skills](https://skillicons.dev/icons?i=md,py&theme=light&perline=10)
 
 ![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=light)
 
