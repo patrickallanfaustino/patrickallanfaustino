@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=patrickallanfaustino&color=red)
+![](https://komarev.com/ghpvc/?username=patrickallanfaustino&color=red&style=for-the-badge&abbreviated=true)
 
 ### Hi guys, welcome! 👋
 
