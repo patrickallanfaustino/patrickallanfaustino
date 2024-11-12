@@ -37,6 +37,13 @@
 [![My Skills](https://skillicons.dev/icons?i=ableton,anaconda,autocad,bash,bootstrap,cs,cpp,cmake,css,discord,github,html,jquery,latex,linux,md,mysql,perl,php,powershell,py,sqlite,ubuntu,vim,visualstudio,vscode,windows,julia&theme=light)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,cuda,numpy,jupyter,pandas,matplotlib,seaborn,scipy,digitalocean,ffmpeg,mariadb,notepadpp,scratch,wsl,word,excel,powerpoint,dreamweaver&theme=light)
 
+![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+
+
 <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=light)
