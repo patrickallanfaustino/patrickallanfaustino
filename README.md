@@ -38,11 +38,15 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,cuda,numpy,jupyter,pandas,matplotlib,seaborn,scipy,digitalocean,ffmpeg,mariadb,notepadpp,scratch,wsl,word,excel,powerpoint,dreamweaver&theme=light)
 
 <div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=merko)
+
 </div>
 
 ## GitHub Analytics
 
 <div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickallanfaustino&theme=light)
+
 </div>
