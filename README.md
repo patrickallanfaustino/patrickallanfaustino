@@ -39,7 +39,7 @@
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=cobalt)
+![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=light)
 
 </div>
 
