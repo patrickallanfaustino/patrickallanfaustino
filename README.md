@@ -11,7 +11,8 @@
 
 ## About Me
 
-- 👨‍🎓 MSc Student in Biomaterials and Bioprocess Engineering at the Paulista State University, Brazil.
+- 👨‍🎓 MSc student in Biomaterials and Bioprocess Engineering at the Paulista State University, Brazil.
+- 👨‍🎓 BEng student in Computer at the Virtual University of the State of São Paulo, Brazil.
 - 🔬 Working on Computational Chemistry, specifically Molecular Dynamics Simulations.
 - 💼 Researching the behavior of biomolecules in ionic liquids.
 - 📫 How to reach me: [Email](mailto:patrickfaustino@hotmail.com)
