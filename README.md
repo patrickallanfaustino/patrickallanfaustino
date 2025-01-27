@@ -10,11 +10,11 @@
 </div>
 
 ## About Me
-
+- 👨‍🎓 PhD student in PhD in Biotechnology at the Paulista State University, Brazil.
 - 👨‍🎓 MSc student in Biomaterials and Bioprocess Engineering at the Paulista State University, Brazil.
-- 👨‍🎓 BEng student in Computer at the Virtual University of the State of São Paulo, Brazil.
+- 👨‍🎓 BSc student in Computer Engineering at the Virtual University of the State of São Paulo, Brazil.
 - 🔬 Working on Computational Chemistry, specifically Molecular Dynamics Simulations.
-- 💼 Researching the behavior of biomolecules in ionic liquids.
+- 💼 Researching the behavior of biomolecules in ionic liquids with Machine Learning.
 - 📫 How to reach me: [Email](mailto:patrickfaustino@hotmail.com)
 - 💬 I welcome discussions, consultations and collaboration opportunities in the areas of computational chemistry and molecular dynamics simulations. Feel free to contact me or if you would like to discuss possible cooperations.
 
@@ -32,7 +32,7 @@
 ## Workstation Home
 - 🖥️ AMD Ryzen 7 2700X @ OC 4000 MHz with 2 fans Water-Cooler; Biostar X470GTA; 2x16 GB DDR4 @ 3000 MHz XMP2; AMD Radeon RX 6600 @ OC 2500 MHz with 8 GB DDR6 @ 1900 MHz; NVME/SSD storage 3 TB.
 - 🎖️ 9.35 Teraflops Go!
-- 🧬 Software suite molecular dynamics: Gromacs 2024 and OpenMM 8
+- 🧬 Software suite molecular dynamics: Gromacs 2025 and OpenMM 8
 
 ## Skills
 
