@@ -13,8 +13,8 @@
 - 👨‍🎓 PhD student in PhD in Biotechnology at the Paulista State University, Brazil.
 - 👨‍🎓 MSc student in Biomaterials and Bioprocess Engineering at the Paulista State University, Brazil.
 - 👨‍🎓 BSc student in Computer Engineering at the Virtual University of the State of São Paulo, Brazil.
-- 🔬 Working on Computational Chemistry, specifically Molecular Dynamics Simulations.
-- 💼 Researching the behavior of biomolecules in ionic liquids with Machine Learning.
+- 🔬 Working on Computational Chemistry, specifically Molecular Dynamics Simulations with Machine Learning.
+- 💼 Researching the behavior of biomolecules in ionic liquids.
 - 📫 How to reach me: [Email](mailto:patrickfaustino@hotmail.com)
 - 💬 I welcome discussions, consultations and collaboration opportunities in the areas of computational chemistry and molecular dynamics simulations. Feel free to contact me or if you would like to discuss possible cooperations.
 
