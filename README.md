@@ -30,13 +30,13 @@
 - 🔑 Molecular dynamics; Biomolecules; Aqueous Biphasic Systems; Ionic Liquids; Thermodynamics; Solvation; Complex Solutions.
 
 ## Workstation Home
-- 🖥️ AMD Ryzen 7 2700X @ OC 4000 MHz with 2 fans Water-Cooler; Biostar X470GTA; 2x16 GB DDR4 @ 3000 MHz XMP2; AMD Radeon RX 6600 @ OC 2500 MHz with 8 GB DDR6 @ 1900 MHz; NVME/SSD storage 3 TB.
-- 🎖️ 9.35 Teraflops Go!
+- 🖥️ AMD Ryzen 9 5900XT @ OC 5050 MHz with 2 fans Water-Cooler; Biostar X470GTA; 2x16 GB DDR4 @ 3000 MHz XMP2; AMD Radeon RX 6600 @ OC 2750 MHz with 8 GB VRAM @ 1900 MHz; NVME/SSD storage 3 TB.
+- 🎖️ 11.15 TFLOPS Go!
 - 🧬 Software suite molecular dynamics: Gromacs 2025 and OpenMM 8
 
 ## Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,anaconda,arduino,autocad,bash,bootstrap,chatgpt,claude,cmake,c,cs,cpp,css,cuda,digitalocean,discord,dreamweaver,excel,gemini,gromacs,git,github,html,jquery,julia,jupyter,latex,mariadb,markdown,matplotlib,mysql,notepadpp,numpy,openmm,pandas,perl,photoshop,php,powerpoint,powershell,python,scikitlearn,scipy,seaborn,scratch,sqlite,terminal,ubuntu,vim,visualstudio,vscode,wsl,word,windows&theme=light&perline=13)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,anaconda,arduino,autocad,bash,bootstrap,chatgpt,claude,cmake,c,cs,cpp,css,cuda,digitalocean,discord,dreamweaver,excel,gemini,gromacs,git,github,html,jquery,julia,jupyter,latex,mariadb,markdown,matplotlib,mysql,notepadpp,numpy,openmm,pandas,perl,photoshop,php,powerpoint,powershell,python,pytorch,scikitlearn,scipy,seaborn,scratch,sqlite,terminal,ubuntu,vim,visualstudio,vscode,wsl,word,windows&theme=light&perline=13)
 
 ![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=light)
 
