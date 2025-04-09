@@ -24,6 +24,7 @@
 - 📧 Email2: [professorpatrickfaustino@gmail.com](professorpatrickfaustino@gmail.com)
 - 🐦 Twitter: [@pkfaustino](https://x.com/pkfaustino)
 - 💼 LinkedIn: [Patrick Faustino](https://linkedin.com/in/pckfaustino)
+- 🟣​ Discord: [pkfaustino](https://discord.com/channels/@me)
 
 ## Keywords
 
