@@ -40,7 +40,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,anaconda,android,apache,arduino,autocad,bash,bootstrap,chatgpt,claude,cmake,c,cs,cpp,css,cuda,deepseek,digitalocean,discord,dreamweaver,excel,gemini,gromacs,git,github,gitlab,googlecolab,html,jquery,julia,jupyter,latex,mariadb,markdown,matplotlib,mysql,notepadpp,numpy,octave,onedrive,openmm,pandas,perl,photoshop,php,powerpoint,powershell,python,pytorch,scikitlearn,scipy,seaborn,scratch,sqlite,steam,tensorflow,terminal,ubuntu,vim,visualstudio,vscode,wsl,word,windows&theme=light&perline=13)
 
 ## Learning
-- 🐍 Python para Data Science: primeiros passos, Alura, 2025.
+- 🐍 Python para Data Science: primeiros passos. Alura, 2025.
 
 ## GitHub Analytics
 
