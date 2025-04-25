@@ -44,8 +44,10 @@
 
 ## GitHub Analytics
 
-<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=light)
+
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickallanfaustino&theme=light)
 
 </div>
