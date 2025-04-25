@@ -39,15 +39,13 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,anaconda,arduino,autocad,bash,bootstrap,chatgpt,claude,cmake,c,cs,cpp,css,cuda,digitalocean,discord,dreamweaver,excel,gemini,gromacs,git,github,html,jquery,julia,jupyter,latex,mariadb,markdown,matplotlib,mysql,notepadpp,numpy,openmm,pandas,perl,photoshop,php,powerpoint,powershell,python,pytorch,scikitlearn,scipy,seaborn,scratch,sqlite,terminal,ubuntu,vim,visualstudio,vscode,wsl,word,windows&theme=light&perline=13)
 
-![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=light)
-
 ## Alura
 - 🐍 Python para Data Science: primeiros passos
 
 ## GitHub Analytics
 
 <div align="center">
-  
+![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickallanfaustino&theme=light)
 
 </div>
