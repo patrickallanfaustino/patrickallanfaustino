@@ -31,7 +31,7 @@
 - 🔑 Molecular dynamics; Biomolecules; Aqueous Biphasic Systems; Ionic Liquids; Thermodynamics; Solvation; Complex Solutions.
 
 ## Workstation Home
-- 🖥️ AMD Ryzen 9 5900XT @ OC 5050 MHz with 3 fans Water-Cooler and Corsair Box; TUF Gaming X570; 2x16 GB DDR4 @ 3000 MHz XMP2; AMD Radeon RX 6600 @ OC 2750 MHz with 8 GB VRAM @ 1900 MHz; NVME/SSD storage 3 TB; Power Energy 1000 W.
+- 🖥️ AMD Ryzen 9 5900XT @ OC 4800 MHz with 3 fans Water-Cooler and Corsair Box; TUF Gaming X570; 2x16 GB DDR4 @ 3000 MHz XMP2; AMD Radeon RX 6600 @ OC 2750 MHz with 8 GB VRAM @ 1900 MHz; NVME/SSD storage 3 TB; Power Energy 1000 W.
 - 🎖️ 11.15 TFLOPS Go!
 - 🧬 Software suite molecular dynamics: Gromacs 2025 and OpenMM 8
 
@@ -40,7 +40,8 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,anaconda,android,apache,arduino,autocad,bash,bootstrap,chatgpt,claude,cmake,c,cs,cpp,css,cuda,deepseek,digitalocean,discord,dreamweaver,excel,gemini,gromacs,git,github,gitlab,googlecolab,html,jquery,julia,jupyter,latex,mariadb,markdown,matplotlib,mysql,notepadpp,numpy,octave,onedrive,openmm,pandas,perl,photoshop,php,powerpoint,powershell,python,pytorch,scikitlearn,scipy,seaborn,scratch,sqlite,steam,tensorflow,terminal,ubuntu,vim,visualstudio,vscode,wsl,word,windows&theme=light&perline=13)
 
 ## Learning
-- 🐍 Python for Data Science: first steps. Alura, 2025.
+- 🐍 Python for Data Science: Getting Started. Alura, 2025.
+- 🐍 Python for Data Science: Working with Functions, Data Structures, and Exceptions. Alura, 2025.
 
 ## GitHub Analytics
 
