@@ -10,7 +10,7 @@
 </div>
 
 ## About Me
-- 👨‍🎓 PhD student in PhD in Biotechnology at the Paulista State University, Brazil.
+- 👨‍🎓 PhD student in Biotechnology at the Paulista State University, Brazil.
 - 👨‍🎓 MSc student in Biomaterials and Bioprocess Engineering at the Paulista State University, Brazil.
 - 👨‍🎓 BSc student in Computer Engineering at the Virtual University of the State of São Paulo, Brazil.
 - 🔬 Working on Computational Chemistry, specifically Molecular Dynamics Simulations with Machine Learning.
@@ -23,8 +23,7 @@
 - 📧 Email1: [patrickfaustino@hotmail.com](patrickfaustino@hotmail.com)
 - 📧 Email2: [professorpatrickfaustino@gmail.com](professorpatrickfaustino@gmail.com)
 - 🐦 X: [@pkfaustino](https://x.com/pkfaustino)
-- 💼 LinkedIn: [Patrick Faustino](https://linkedin.com/in/pckfaustino)
-- 🟣​ Discord user: [pkfaustino](https://discord.com/channels/@me)
+- 🟢​ ORCID: [0000-0002-9323-2489](https://orcid.org/0000-0002-9323-2489)
 
 ## Keywords
 
