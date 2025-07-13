@@ -31,7 +31,7 @@
 - 🔑 Molecular dynamics; Biomolecules; Aqueous Biphasic Systems; Ionic Liquids; Thermodynamics; Solvation; Complex Solutions.
 
 ## Workstation Home
-- 🖥️ AMD Ryzen 9 5900XT @ OC 4800 MHz with 3 fans Water-Cooler and Corsair Box; TUF Gaming X570; 2x16 GB DDR4 @ 3000 MHz XMP2; AMD Radeon RX 6600 @ OC 2750 MHz with 8 GB VRAM @ 1900 MHz; NVME/SSD storage 3 TB; Power Energy 1000 W.
+- 🖥️ AMD Ryzen 9 5900XT @ OC 4800 MHz with Water-Cooler 360 Kalkan and Corsair 4000D computer case; TUF ASUS Gaming X570 Plus; Corsair Dominator 2x16 GB DDR4 @ 3200 MHz XMP2; AMD Radeon RX 6600 @ OC 2750 MHz with 8 GB VRAM @ 1900 MHz; NVME/SSD storage 3 TB; Power Supply Energy Corsair RM1000e 1000 W.
 - 🎖️ 11.15 TFLOPS Go!
 - 🧬 Software suite molecular dynamics: Gromacs 2025 and OpenMM 8
 
