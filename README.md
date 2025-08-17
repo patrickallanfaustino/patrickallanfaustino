@@ -15,7 +15,7 @@
 - 👨‍🎓 BSc student in Computer Engineering at the Virtual University of the State of São Paulo, Brazil.
 - 🔬 Working on Computational Chemistry, specifically Molecular Dynamics Simulations with Machine Learning.
 - 💼 Researching the behavior of biomolecules in ionic liquids.
-- 📫 How to reach me: [Email](mailto:patrick.faustino@unesp.br)
+- 📫 How to reach me: [patrick.faustino@unesp.br](mailto:patrick.faustino@unesp.br)
 - 💬 I welcome discussions, consultations and collaboration opportunities in the areas of computational chemistry and molecular dynamics simulations. Feel free to contact me or if you would like to discuss possible cooperations.
 
 ## Contact
@@ -44,12 +44,5 @@
 - 🐍 Python for Data Science: Working with Functions, Data Structures, and Exceptions. Alura, 2025.
 - 🐍 Numpy: efficient numerical analysis with Python. Alura, 2025.
 
-## GitHub Analytics
-
-![](https://github-profile-trophy.vercel.app/?username=patrickallanfaustino&theme=light)
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickallanfaustino&theme=light)
-
-</div>
+## Tutorials
+- 🔥 [Look here!](https://github.com/patrickallanfaustino/tutorials-md)
