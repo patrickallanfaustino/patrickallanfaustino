@@ -44,5 +44,5 @@
 - 🐍 Python for Data Science: Working with Functions, Data Structures, and Exceptions. Alura, 2025.
 - 🐍 Numpy: efficient numerical analysis with Python. Alura, 2025.
 
-## Tutorials
-- 🔥 [Look here!](https://github.com/patrickallanfaustino/tutorials-md)
+## Tutorials, Thesis and Papers
+🔥 [Look here!](https://github.com/patrickallanfaustino/tutorials-md)
