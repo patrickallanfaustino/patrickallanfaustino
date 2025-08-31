@@ -13,7 +13,7 @@
 - 👨‍🎓 PhD student in Biotechnology at the Paulista State University, Brazil.
 - 👨‍🎓 MSc in Biomaterials and Bioprocess Engineering at the Paulista State University, Brazil.
 - 👨‍🎓 BSc student in Computer Engineering at the Virtual University of the State of São Paulo, Brazil.
-- 🚀 Residency in Aerospace Technologies in the ​​Biotechnology at the Brazilian Space Agency, Brazil.
+- 🚀 Research Programs in Aerospace Technologies in the ​​Biotechnology at the Brazilian Space Agency, Brazil.
 - 🔬 Working on Computational Chemistry, specifically Molecular Dynamics Simulations with Machine Learning.
 - 💼 Researching the behavior of biomolecules in ionic liquids.
 - 📫 How to reach me: [patrick.faustino@unesp.br](mailto:patrick.faustino@unesp.br)
