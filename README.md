@@ -24,7 +24,6 @@
 - 📧 Email2: [professorpatrickfaustino@gmail.com](professorpatrickfaustino@gmail.com)
 - 🐦 X: [@pkfaustino](https://x.com/pkfaustino)
 - 🟢​ ORCID: [0000-0002-9323-2489](https://orcid.org/0000-0002-9323-2489)
-- 🟣 Web of Science: [LTD-8752-2024](https://www.webofscience.com/wos/author/record/LTD-8752-2024)
 
 ## Keywords
 
