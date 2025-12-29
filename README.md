@@ -44,6 +44,7 @@
 - 🐍 Python for Data Science: Getting Started. Alura, 2025.
 - 🐍 Python for Data Science: Working with Functions, Data Structures, and Exceptions. Alura, 2025.
 - 🐍 Numpy: efficient numerical analysis with Python. Alura, 2025.
+- 🐍 Prompt Engineering: Creating Effective Prompts for Generative AI. Alura, 2025.
 
 ## Tutorials, Thesis and Papers
 🔥 [Look here!](https://github.com/patrickallanfaustino/tutorials-md)
