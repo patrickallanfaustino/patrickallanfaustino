@@ -5,7 +5,7 @@
 
 <div align="center">
   
-<img src="4l54.png" alt="protein">
+<img src="4L40.png" alt="protein">
 
 </div>
 
