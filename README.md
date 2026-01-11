@@ -31,10 +31,10 @@
 - 🔑 Molecular dynamics; Biomolecules; Aqueous Biphasic Systems; Ionic Liquids; Drop-in Biofuels; Enzymatic Catalysis; Fatty Acid Decarboxylation; Thermodynamics Properties; Solvation; Phase Equilibrium.
 
 ## Workstation Home
-- 🖥️ AMD Ryzen 9 5900XT @ OC 4700 MHz with Water-Cooler 360 Kalkan and Corsair 4000D computer case; TUF ASUS Gaming X570 Plus; Corsair Dominator 2x16 GB DDR4 @ 3200 MHz XMP2; AMD Radeon RX 6600 @ OC 2750 MHz with 8 GB VRAM @ 1900 MHz; NVME/SSD storage 3 TB; Power Supply Energy Corsair RM1000e 1000 W.
-- 🖥️ AMD Ryzen 7 2700X @ OC 3900 MHz with Water-Cooler 240 Rise and Gamemax Fortress computer case; Biostar Racing X470GTA; Geil 2x16 GB DDR4 @ 3000 MHz XMP2; AMD Radeon RX 6600 @ OC 2750 MHz with 8 GB VRAM @ 1900 MHz; NVME/SSD storage 512 GB; Power Supply Energy AeroCool KCAS 500 W.
-- 🎖️ 19 TFLOPS Go!
-- 🧬 Software suite molecular dynamics: Gromacs 2025 and OpenMM 8
+- 🖥️ AMD Ryzen 9 5900XT (16/32) @ OC 4700 MHz with Water-Cooler 360 Kalkan and Corsair 4000D computer case; TUF ASUS Gaming X570 Plus; Corsair Dominator 2x16 GB DDR4 @ 3200 MT/s XMP2; RTX 4070 Ti MSI Gaming X PRO; Power Supply Energy Corsair RM1000e 1000 W.
+- 🖥️ AMD Ryzen 7 2700X (8/16) @ OC 3900 MHz with Water-Cooler 240 Rise and Gamemax Fortress computer case; Biostar Racing X470GTA; Geil 2x16 GB DDR4 @ 3000 MT/s XMP2; RX 6600XT AsRock Challenger D; Power Supply Energy AeroCool KCAS 500 W.
+- 🎖️ 53.4 TFLOPS Go!
+- 🧬 Software suite molecular dynamics: Gromacs 2025/2026 and OpenMM 8
 
 ## Skills
 
