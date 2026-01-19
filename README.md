@@ -12,7 +12,7 @@
 ## About Me
 - 👨‍🎓 PhD student in Biotechnology at the Paulista State University, Brazil.
 - 👨‍🎓 MSc in Biomaterials and Bioprocess Engineering at the Paulista State University, Brazil.
-- 🚀 Research Programs in Aerospace Technologies in the ​​Biotechnology at the Brazilian Space Agency, Brazil.
+- 🚀 Research Programs in Aerospace Technologies in the ​​Biotechnology at the Hardware BR Institute, Brazil.
 - 🔬 Working on Computational Chemistry, specifically Molecular Dynamics Simulations with Machine Learning, applying in the area of ​​thermodynamics properties.
 - 💼 Research on the behavior of biomolecules in ionic liquids.
 - 💼 Investigation of enzymatic decarboxylation for the production of drop-in bio-hydrocarbons, using Molecular Dynamics for thermodynamic property prediction.
