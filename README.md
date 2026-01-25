@@ -44,7 +44,7 @@
 - 🐍 Python for Data Science: Getting Started. Alura, 2025.
 - 🐍 Python for Data Science: Working with Functions, Data Structures, and Exceptions. Alura, 2025.
 - 🐍 Numpy: efficient numerical analysis with Python. Alura, 2025.
-- 🐍 Prompt Engineering: Creating Effective Prompts for Generative AI. Alura, 2025.
+- 🧠 Prompt Engineering: Creating Effective Prompts for Generative AI. Alura, 2025.
 - 🧠 Gemini: Master Google's AI Assistant. Alura, 2026
 
 ## Tutorials, Thesis and Papers
