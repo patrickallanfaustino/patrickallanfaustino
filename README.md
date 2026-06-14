@@ -10,7 +10,7 @@
 </div>
 
 ## About Me
-- 👨‍🎓 PhD student in Biotechnology at the Paulista State University, Brazil.
+- 👨‍🎓 PhD candidate in Biotechnology at the Paulista State University, Brazil.
 - 👨‍🎓 MSc in Biomaterials and Bioprocess Engineering at the Paulista State University, Brazil.
 - 👨‍🎓 Computer Engineering student, Virtual University of the State of São Paulo, Brazil.
 - 👨‍🎓 Bachelor's degree in Chemistry and Biological Sciences, Federal University of Minas Gerais, Brazil.
